@@ -4,7 +4,7 @@
   <session-factory>
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
     <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-    <property name="hibernate.connection.url">jdbc:mysql://airmonitor-mysql:3306/nmudb?zeroDateTimeBehavior=convertToNull</property>   
+    <property name="hibernate.connection.url">jdbc:mysql://qgmnmu-mysql:3306/nmudb?zeroDateTimeBehavior=convertToNull</property>   
     <property name="hibernate.connection.CharSet">utf8</property>
     <property name="hibernate.connection.characterEncoding">utf8</property>
     <property name="hibernate.connection.useUnicode">true</property>
